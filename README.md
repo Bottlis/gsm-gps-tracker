@@ -17,11 +17,11 @@ A simple GSM GPS and payload data tracker unsing an Arduino with sim800l and Ubl
 ## The Hardware
 You will need some hardware ... 
   
-  1. Arduino Pro Mini
+  1. Arduino Pro Mini (3,5 Euro)
   
-  2. GSM SIM800L Module 
+  2. GSM SIM800L Module (12 Euro)
   
-  3. Ublox Neo m6 GPS Module
+  3. Ublox Neo m6 GPS Module (8 Euro)
   
   4. 3.7V LiPo Battery (USB wont work as the GSM module draws around 2A peak while transmitting)
   
